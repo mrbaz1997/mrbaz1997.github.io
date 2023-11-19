@@ -1,4 +1,5 @@
 ---
+layout: page
 name: "Peywane, Kurdish Word Game"
 tools: [Unity, C#, postgreSQL]
 image: /assets/img/projects/Peywane.jpg

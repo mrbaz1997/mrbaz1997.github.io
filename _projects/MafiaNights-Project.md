@@ -1,4 +1,5 @@
 ---
+layout: page
 name: Mafia Nights
 tools: [C#, Unity, Multiplayer]
 image: /assets/img/projects/MafiaNights.jpg

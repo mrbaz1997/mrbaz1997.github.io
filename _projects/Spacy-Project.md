@@ -1,4 +1,5 @@
 ---
+layout: page
 name: Spacy
 tools: [Unity, C#, Casual]
 image: /assets/img/projects/Spacy.gif

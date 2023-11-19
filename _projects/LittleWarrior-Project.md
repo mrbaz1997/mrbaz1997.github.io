@@ -1,4 +1,5 @@
 ---
+layout: page
 name: Little Warrior
 tools: [Unity, C#, IdleRPG]
 image: /assets/img/projects/LittleWarrior.jpg
