@@ -1,13 +1,19 @@
-- title: Game Developer, Medrick FZE, Tehran, IR
+- title: Mid-Senior Game Developer, Death Arc , Remote - Part Time
+  from: Sep 2023
+  to: present
+  description: •	Implemented a Tic Tac Toe game with Gobblet Gobblers rules from sketch to release incorporating complex AI.<br>•	Developed a Food Merge game (not published yet) from sketch.<br>•	Created and integrated modular systems (audio, popup, settings, data save/load) for use in both projects.<br>•	Developed various tools and utilities and custom editors to streamline project workflows and boost productivity.
+
+
+- title: Mid-Senior Game Developer, Medrick FZE, Tehran, IR - Full Time
   from: Dec 2021
   to: Sep 2023
-  description:  I work as Unity Game Developer on Mafia Nights project.<br>
+  description:•	Led development on 2 successful games, each with 4M+ installations, and launched a new game achieving 500k+ installs in 5 months with 80k+ DAU.<br>•	Developed an online multiplayer board game utilizing Photon and Nakama technologies, employing both client-server and P2P approaches.<br>•	Developed and integrated complete game logic and meta-services, including purchase plugins, shop, leaderboard, authentication, notification, general API and other modular services.<br>•	Designed and implemented gameplay UI based on GDD and team input.<br>•	Actively engaged in Agile development, fostering teamwork and efficient project management.<br>•	Mentored interns and junior developers for production tasks.<br>•	Conducted code reviews and participated in pair programming sessions.
 
-- title: Gameplay Programmer, ANU Game Studio, Tehran, IR
+- title: Junior Game Developer , ANU Game Studio, Tehran, IR - Full Time
   from: Mar 2021
   to: Dec 2021
-  description:  I worked as GPP on an Idle RPG mobile game.<br>
-                My job was mainly focused on ·	design and implemented engaging gameplay systems, including enemy respawn mechanics, rewarding systems, immersive audio systems, and innovative Idle skill mechanisms.
+  description:  •	Developed core gameplay mechanics and basic UI elements.<br>•	Works with particle effects and asset management; Utilize Unity's Animator and NavMesh.<br>•	Utilized Unity's physics engine with rigid bodies and colliders.<br>•	Designed and implemented gameplay systems (enemy respawn, rewarding systems, audio systems, idle skill mechanisms).
+
 
 - title: Junior Freelance Game Developer, IR
   from: Jul. 2018
